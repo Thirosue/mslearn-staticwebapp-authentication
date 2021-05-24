@@ -5,7 +5,7 @@
   },
   "routes": [
     {
-      "route": "/.auth/login/aad",
+      "route": "/.auth/login/twitter",
       "statusCode": "404"
     },
     {
